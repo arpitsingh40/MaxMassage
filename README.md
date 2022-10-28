@@ -86,4 +86,4 @@ print('Script executed successfully')
 * python3 script.py
 * Enter number of messages: 1000
 * Enter message content: Hiiii
-* Press Ente
+* Press Enter
