@@ -6,7 +6,7 @@ Best SMS bombing script for all Social Media  and Massaging Platform
 
 In order to run the python script, your system must have the following programs/packages installed.
 * Python 3.8: Download it from https://www.python.org/downloads
-* Pyautogui: Run in command prompt pip install pyautogui
+* Pyautogui: Run in command prompt pip install pyautogui or pip3 install pyautogui
 
 
 
