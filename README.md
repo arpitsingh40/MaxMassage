@@ -51,7 +51,7 @@ print('Script executed successfully')
 
 ## Windows:
 
-* git clone MaxMassage
+* git clone [MaxMassage](https://github.com/arpitsingh40/MaxMassage.git)
 * cd MaxMassage 
 * python3 script.py
 * Enter number of messages: 1000
@@ -61,7 +61,7 @@ print('Script executed successfully')
 
 ## Linux:
 
-* git clone MaxMassage
+* git clone [MaxMassage](https://github.com/arpitsingh40/MaxMassage.git)
 * cd MaxMassage 
 * python3 script.py
 * Enter number of messages: 1000
@@ -72,7 +72,7 @@ print('Script executed successfully')
 
 * pkg update
 * pkg install python3 python3-pip git -y
-* git clone MaxMassage
+* git clone [MaxMassage](https://github.com/arpitsingh40/MaxMassage.git)
 * cd MaxMassage 
 * python3 script.py
 * Enter number of messages: 1000
@@ -81,7 +81,7 @@ print('Script executed successfully')
 
 ## MacBook
 
-* git clone MaxMassage
+* git clone [MaxMassage](https://github.com/arpitsingh40/MaxMassage.git)
 * cd MaxMassage 
 * python3 script.py
 * Enter number of messages: 1000
