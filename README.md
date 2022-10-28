@@ -68,16 +68,6 @@ print('Script executed successfully')
 * Enter message content: Hiiii
 * Press Enter
 
-## Termux:
-
-* pkg update
-* pkg install python3 python3-pip git -y
-* git clone https://github.com/arpitsingh40/MaxMassage.git
-* cd MaxMassage 
-* python3 script.py
-* Enter number of messages: 1000
-* Enter message content: Hiiii
-* Press Enter
 
 ## MacBook
 
