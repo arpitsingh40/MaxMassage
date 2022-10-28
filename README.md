@@ -11,34 +11,6 @@ In order to run the python script, your system must have the following programs/
 
 
 
-Windows:
-git clone MaxMassage
-cd MaxMassage 
-python3 script.py
-Enter number of messages: 1000
-Enter message content: Hiiii
-Press Enter
-
-
-Linux:
-
-git clone MaxMassage
-cd MaxMassage 
-python3 script.py
-Enter number of messages: 1000
-Enter message content: Hiiii
-Press Enter
-
-pkg update
-pkg install python3 python3-pip git -y
-git clone MaxMassage
-cd MaxMassage 
-python3 script.py
-Enter number of messages: 1000
-Enter message content: Hiiii
-Press Enter
-
-
 
 # Automate Messages Python Script
 
