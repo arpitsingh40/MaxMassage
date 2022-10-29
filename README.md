@@ -6,6 +6,7 @@ Best SMS bombing script for all Social Media  and Massaging Platform
 
 In order to run the python script, your system must have the following programs/packages installed.
 * Python 3.8: Download it from https://www.python.org/downloads
+* Install pip3
 * Pyautogui: Run in command prompt pip install pyautogui or pip3 install pyautogui
 
 
@@ -17,7 +18,7 @@ In order to run the python script, your system must have the following programs/
 This is a simple script that sends multiple messages using python script. This is used for educational purposes only. Please don't ruin anyone's phone by sending multiple messages.
 
 ## Demo
-* Video clip on youtube of the script execution. 
+* Video clip on youtube of the script execution.
 
 
 ## Approach
@@ -52,7 +53,7 @@ print('Script executed successfully')
 ## Windows:
 
 * git clone [MaxMassage](https://github.com/arpitsingh40/MaxMassage.git)
-* cd MaxMassage 
+* cd MaxMassage
 * python3 script.py
 * Enter number of messages: 1000
 * Enter message content: Hiiii
@@ -62,7 +63,7 @@ print('Script executed successfully')
 ## Linux:
 
 * git clone https://github.com/arpitsingh40/MaxMassage.git
-* cd MaxMassage 
+* cd MaxMassage
 * python3 script.py
 * Enter number of messages: 1000
 * Enter message content: Hiiii
@@ -72,7 +73,7 @@ print('Script executed successfully')
 ## MacBook
 
 * git https://github.com/arpitsingh40/MaxMassage.git
-* cd MaxMassage 
+* cd MaxMassage
 * python3 script.py
 * Enter number of messages: 1000
 * Enter message content: Hiiii
